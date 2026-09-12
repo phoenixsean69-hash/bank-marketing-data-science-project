@@ -4,13 +4,13 @@
 Predicting Customer Response to Bank Marketing Campaigns
 
 ## Board Date
-12 September 2026 - Later Progress Update
+13 September 2026 - Final Submission Check
 
 | To Do | In Progress | Done |
 |---|---|---|
-| Final submission audit | Final repository clean-up | Project charter |
-| Push project to GitHub | Final portfolio review | WBS and schedule |
-| Capture future progress evidence |  | Stakeholder matrix |
+| Submit practical assessment | Final submission review | Project charter |
+|  |  | WBS and schedule |
+|  |  | Stakeholder matrix |
 |  |  | Risk register |
 |  |  | Change log |
 |  |  | Dataset and data dictionary |
@@ -27,9 +27,11 @@ Predicting Customer Response to Bank Marketing Campaigns
 |  |  | Individual reflection |
 |  |  | Five-minute demo |
 |  |  | Handover and monitoring plan |
+|  |  | GitHub repository clean-up |
+|  |  | Final documentation audit |
 
 ## Current Position
 
-The analytical and reporting work is complete.
+The practical project portfolio is complete.
 
-The remaining work is repository clean-up, final submission checking and progress-evidence completion.
+The remaining activity is the final submission of the project repository and supporting evidence.
