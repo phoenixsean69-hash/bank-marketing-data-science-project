@@ -2,12 +2,11 @@
 
 ## Main Notebook
 
-
-otebook/bank_marketing_final.ipynb
+`notebook/bank_marketing_final.ipynb`
 
 ## Dataset
 
-data/bank-full.csv
+`data/bank-full.csv`
 
 ## Random Seed
 
@@ -21,7 +20,7 @@ The notebook was executed from start to finish successfully.
 
 Required Python packages are listed in:
 
-equirements.txt
+`requirements.txt`
 
 ## Main Outputs
 
@@ -38,4 +37,4 @@ The notebook reproduces:
 
 ## Important Modelling Decision
 
-The variable duration is excluded from the predictive models because it would not be known before the marketing call ends and therefore presents a data-leakage risk.
+The variable `duration` is excluded from the predictive models because it would not be known before the marketing call ends and therefore presents a data-leakage risk.

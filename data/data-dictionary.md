@@ -6,11 +6,10 @@ Bank Marketing Dataset
 
 ## Target Variable
 
-The target variable is y.
+The target variable is `y`.
 
-- yes = the customer subscribed to a term deposit
-- 
-o = the customer did not subscribe to a term deposit
+- `yes` = the customer subscribed to a term deposit
+- `no` = the customer did not subscribe to a term deposit
 
 ## Variables
 
@@ -38,14 +37,14 @@ o = the customer did not subscribe to a term deposit
 
 The dataset uses semicolons as separators rather than commas.
 
-Several categorical variables contain values such as unknown. These will be examined during the data-quality audit rather than automatically treated as missing.
+Several categorical variables contain values such as `unknown`. These were examined during the data-quality audit rather than automatically treated as missing.
 
-The variable pdays may contain -1, which will be investigated because it is likely to represent customers who were not previously contacted.
+The variable `pdays` may contain `-1`, which represents a special condition and requires careful interpretation.
 
-The variable duration requires special attention for possible data leakage because the call duration may only be known after the marketing contact has already taken place.
+The variable `duration` requires special attention for possible data leakage because the call duration would only be known after the marketing contact had already taken place.
 
 ## Data Source
 
 The dataset was obtained from the UCI Machine Learning Repository.
 
-The full ank-full.csv dataset will be used for this practical project.
+The full `bank-full.csv` dataset is used for this practical project.

@@ -1,4 +1,4 @@
-﻿# Data Audit Report
+# Data Audit Report
 
 ## Dataset Overview
 
@@ -58,14 +58,12 @@ This means no duplicate removal is required at this stage.
 
 The target variable is imbalanced.
 
-- 
-o: 39,922 records (88.3%)
+- `no`: 39,922 records (88.3%)
 - yes: 5,289 records (11.7%)
 
 Because of this imbalance, overall accuracy could be misleading.
 
-For example, a model that predicts 
-o for every customer would already achieve approximately 88.3% accuracy while providing no useful prediction of successful subscriptions.
+For example, a model that predicts `no` for every customer would already achieve approximately 88.3% accuracy while providing no useful prediction of successful subscriptions.
 
 Therefore, additional metrics such as precision, recall, F1-score and ROC-AUC will be used.
 
